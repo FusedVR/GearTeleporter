@@ -6,8 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TeleportSample.unity
-    guid: 1afc54547956bc1419761cc2732f29b7
-  - enabled: 0
-    path: Assets/OVR/Scenes/GearVrControllerTest.unity
-    guid: d56af3aeb2176e7459f753c1c2e2dd97
+    path: Assets/Teleporter/TeleportSampleEnvironment.unity
+    guid: faf61a806ae7bc244a152ba420a85414
