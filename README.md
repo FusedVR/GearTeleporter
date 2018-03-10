@@ -3,6 +3,4 @@ Animated bezier curve teleporter on GearVR!
 
  Click out our video on YT!
  
-[![YT Video Tutorial](https://img.youtube.com/vi/DRzGEHZKeic/0.jpg)](https://www.youtube.com/watch?v=DRzGEHZKeic)
-
-![Teleport Preview Gif](tele.gif?raw=true "Title")
+[![YT Video Tutorial](tele.gif?raw=true "Title")](https://www.youtube.com/watch?v=DRzGEHZKeic)
